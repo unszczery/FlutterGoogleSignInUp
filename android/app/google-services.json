@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "672687736251",
+    "project_id": "newsgetterapp",
+    "storage_bucket": "newsgetterapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672687736251:android:6afe3270774d89b2cbb09e",
+        "android_client_info": {
+          "package_name": "com.company.newsgetterapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "672687736251-fm7di744arhu14h7sislluluubrb90f0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.newsgetterapp",
+            "certificate_hash": "87293617a3d94fd62fcd542bd7b9cfc794861afc"
+          }
+        },
+        {
+          "client_id": "672687736251-s4643rap0qs6e1n69mln8lspu7932ba2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAD4vGJVg7H-EVpR3IkMfcoBttOH9_dgQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "672687736251-s4643rap0qs6e1n69mln8lspu7932ba2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
